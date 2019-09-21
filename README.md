@@ -1,2 +1,2 @@
 # Meus_Projetos
-Meus projetos em Data Science
+Neste repositório vou publicar os meus projetos em Data Science
