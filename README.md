@@ -1,3 +1,6 @@
+[![author](https://img.shields.io/badge/author-juliosaopedro-red)](https://www.linkedin.com/in/juliosaopedro) [![](https://img.shields.io/badge/python-3.6.5+-blue.svg)](https://www.python.org/downloads/release/python-365/) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
+
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science.
 
 ## Projetos:
