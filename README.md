@@ -13,7 +13,7 @@ Lista de projetos em Jupyter Notebook:
 * **Análise exploratória das doenças cardiovasculares:** https://bit.ly/2qqjfdx
 * **Comparação entre métricas para análise das doenças cardiovasculares:** https://bit.ly/35yIB7Z 
 * **Análise da violência na cidade do Rio de Janeiro:** https://bit.ly/35p7Edi
-* **Previsão de notas do ENEM 2016
+* **Previsão de notas do ENEM 2016: **https://bit.ly/3edYcPo
 
 
 ---
