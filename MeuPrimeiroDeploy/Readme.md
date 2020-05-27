@@ -12,7 +12,8 @@ Foram utilizadas as seguintes ferramentas:
 * Html
 * Heroku
 
-A aplicação é um projeto de machine learning para previsão do preço de imóveis na cidade de São Paulo. Os dados para treinar o modelo foram obtidos em https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019
+A aplicação é um projeto de machine learning para previsão do preço de um apartamento na cidade de São Paulo. Com base na informação da área, do valor do condomínio, do número de quartos e do número de suítes, o modelo calcula o valor previsto do apartamento.
+Os dados para treinar o modelo foram obtidos em https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019
 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
