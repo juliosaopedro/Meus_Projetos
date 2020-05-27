@@ -7,10 +7,10 @@
 Projeto desenvolvido durante o curso Data Science na Prática oferecido pela Sigmoidal.ai.
 
 Foram utilizadas as seguintes ferramentas:
-Python
-Flask
-Html
-Heroku
+* Python
+* Flask
+* Html
+* Heroku
 
 A aplicação é um projeto de machine learning para previsão do preço de imóveis na cidade de São Paulo. Os dados para treinar o modelo foram obtidos em https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019
 
