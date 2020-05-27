@@ -8,10 +8,10 @@ Projeto desenvolvido durante o curso **Data Science na Prática** oferecido pela
 
 Foram utilizadas as seguintes ferramentas:
 
-* **Python
-* **Flask
-* **Html
-* **Heroku
+* Python
+* Flask
+* Html
+* Heroku
 
 A aplicação é um projeto de machine learning para previsão do preço de um apartamento na cidade de São Paulo. Com base na informação da área, do valor do condomínio, do número de quartos e do número de suítes, o modelo calcula o valor previsto do apartamento.
 
