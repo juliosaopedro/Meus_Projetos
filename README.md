@@ -15,6 +15,10 @@ Lista de projetos em Jupyter Notebook:
 * **Análise da violência na cidade do Rio de Janeiro:** https://bit.ly/35p7Edi
 * **Previsão de notas do ENEM 2016:** https://bit.ly/3aStj0Q
 
+Projetos na Internet
+
+* **Machine Learning - São Paulo : ** https://murmuring-badlands-80592.herokuapp.com/
+
 
 ---
 
