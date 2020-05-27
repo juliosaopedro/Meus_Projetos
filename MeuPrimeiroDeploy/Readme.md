@@ -17,4 +17,4 @@ A aplicação é um projeto de machine learning para previsão do preço de um a
 
 Os dados para treinar o modelo foram obtidos em https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019, e foram disponibilizados publicamente pela startup OpenImob. Os dados são apenas do mes de abril de 2019 e apresenta poucas features.
 
-
+**Link do projeto :** https://murmuring-badlands-80592.herokuapp.com/
