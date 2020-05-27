@@ -17,7 +17,7 @@ Lista de projetos em Jupyter Notebook:
 
 Projetos na Internet
 
-* **Machine Learning - São Paulo : ** https://murmuring-badlands-80592.herokuapp.com/
+* **Machine Learning - São Paulo :** https://murmuring-badlands-80592.herokuapp.com/
 
 
 ---
