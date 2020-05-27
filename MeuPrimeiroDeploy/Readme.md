@@ -4,39 +4,16 @@
   <img src="/imagens/Data-Science-Git-Hub.jpg" >
 </p>
 
-Projeto desenvolvido durante o curso **Data Science na Prática** oferecido pela **Sigmoidal.ai**, com apoio do mestre @Carlos Melo
+Projeto desenvolvido durante o curso **Data Science na Prática** oferecido pela **Sigmoidal.ai**, com apoio do mestre Carlos Melo
 
 Foram utilizadas as seguintes ferramentas:
-* Python
-* Flask
-* Html
-* Heroku
+* **Python
+* **Flask
+* **Html
+* **Heroku
 
 A aplicação é um projeto de machine learning para previsão do preço de um apartamento na cidade de São Paulo. Com base na informação da área, do valor do condomínio, do número de quartos e do número de suítes, o modelo calcula o valor previsto do apartamento.
 
 Os dados para treinar o modelo foram obtidos em https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019, e foram disponibilizados publicamente pela startup OpenImob. Os dados são apenas do mes de abril de 2019 e apresenta poucas features.
 
-## Projetos:
-Lista de projetos em Jupyter Notebook:
 
-* **Analisando os dados do Airbnb - Cidade de Buenos Aires:** https://bit.ly/2QGims0
-* **Análise exploratória das doenças cardiovasculares:** https://bit.ly/2qqjfdx
-* **Comparação entre métricas para análise das doenças cardiovasculares:** https://bit.ly/35yIB7Z 
-* **Análise da violência na cidade do Rio de Janeiro:** https://bit.ly/35p7Edi
-* **Previsão de notas do ENEM 2016:** https://bit.ly/3aStj0Q
-
-Projetos na Internet
-
-* **Machine Learning - São Paulo :** https://murmuring-badlands-80592.herokuapp.com/
-
-
----
-
-### Sobre mim:
-
-Sou Cientista de Dados, em Brasília-DF, iniciando a carreira.
-
-* Graduação em Matemática pelo UNICEUB.
-* Especialização em Análise de Sistemas pela COMPUSERV.
-* Desenvolvedor SQL.
-* Apaixonado por Python.
