@@ -13,7 +13,8 @@ Foram utilizadas as seguintes ferramentas:
 * Heroku
 
 A aplicação é um projeto de machine learning para previsão do preço de um apartamento na cidade de São Paulo. Com base na informação da área, do valor do condomínio, do número de quartos e do número de suítes, o modelo calcula o valor previsto do apartamento.
-Os dados para treinar o modelo foram obtidos em https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019
+
+Os dados para treinar o modelo foram obtidos em https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019, e foram disponibilizados publicamente pela startup OpenImob. Os dados são apenas do mes de abril de 2019 e apresenta poucas features.
 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
