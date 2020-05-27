@@ -4,7 +4,7 @@
   <img src="/imagens/Data-Science-Git-Hub.jpg" >
 </p>
 
-Projeto desenvolvido durante o curso **Data Science na Prática** oferecido pela **Sigmoidal.ai**, com apoio do mestre Carlos Melo
+Projeto desenvolvido durante o curso **Data Science na Prática** oferecido pela **Sigmoidal.ai**, com apoio do mestre **Carlos Melo**
 
 Foram utilizadas as seguintes ferramentas:
 
