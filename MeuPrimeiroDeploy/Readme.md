@@ -8,6 +8,7 @@ Projeto desenvolvido durante o curso **Data Science na Prática** oferecido pela
 
 Foram utilizadas as seguintes ferramentas:
 * **Python
+* **Python
 * **Flask
 * **Html
 * **Heroku
