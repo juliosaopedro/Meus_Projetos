@@ -14,6 +14,7 @@ Lista de projetos em Jupyter Notebook:
 * **Comparação entre métricas para análise das doenças cardiovasculares:** https://bit.ly/35yIB7Z 
 * **Análise da violência na cidade do Rio de Janeiro:** https://bit.ly/35p7Edi
 * **Previsão de notas do ENEM 2016:** https://bit.ly/3aStj0Q
+* **Crawler no Linkedin;** https://github.com/juliosaopedro/Meus_Projetos/blob/master/Linkedin/LinkedinCrawler.ipynb
 
 Projetos na Internet
 
