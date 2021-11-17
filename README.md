@@ -26,9 +26,9 @@ Projetos na Internet
 
 ### Sobre mim:
 
-Sou Cientista de Dados, em Brasília-DF, iniciando a carreira.
+Sou Cientista de Dados, em Brasília-DF.
 
 * Graduação em Matemática pelo UNICEUB.
 * Especialização em Análise de Sistemas pela COMPUSERV.
 * Desenvolvedor SQL.
-* Apaixonado por Python.
+* Apaixonado por Python e por Educação.
