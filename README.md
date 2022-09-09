@@ -30,5 +30,6 @@ Sou Cientista de Dados, em Brasília-DF.
 
 * Graduação em Matemática pelo UNICEUB.
 * Especialização em Análise de Sistemas pela COMPUSERV.
+* MBA em Big Data
 * Desenvolvedor SQL.
 * Apaixonado por Python e por Educação.
